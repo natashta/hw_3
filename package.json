@@ -1,0 +1,18 @@
+{
+  "name": "modules3",
+  "version": "1.0.0",
+  "description": "homework modules task 3",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modules"
+  ],
+  "author": "natashta",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
